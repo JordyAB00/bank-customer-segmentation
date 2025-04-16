@@ -1,6 +1,6 @@
 # Bank Customer Segmentation Analysis
 
-![Cluster Visualization](11.png)
+![Cluster Visualization](images/11.png)
 
 ## Project Overview
 This project analyzes banking marketing data to identify distinct customer segments and their propensity to subscribe to term deposit products. Using K-means clustering and other advanced techniques, I discovered 6 distinct customer segments with subscription rates ranging from 2.2% to 48.6%.
